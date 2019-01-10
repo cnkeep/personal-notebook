@@ -1,2 +1,2 @@
 # personal-notebook
-develop branch
+notebook
